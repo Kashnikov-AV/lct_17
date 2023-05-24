@@ -3,6 +3,6 @@
 Рекомендательный сервис формирования персонализированных туристических пакетов
 
 для запуска 
-1)создать виртуальное окружение
-2) pip install -r requirements.txt
-3) streamlit run main.py
+1. создать виртуальное окружение
+2. pip install -r requirements.txt
+3. streamlit run main.py
